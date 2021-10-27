@@ -3,4 +3,4 @@
 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<mathalves23>&theme=<top-langs>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<mathalves23>&theme=<top-langs>" />
