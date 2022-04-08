@@ -1,25 +1,64 @@
-### Hi there 👋
+#  Hello there!
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathalves23&theme=gotham)](https://github.com/mathalves23/github-readme-stats)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathalves23&theme=gotham&show_icons=true)
 
 
-## ** Git Hub Statistics:**  
+### Skills I developed at [Trybe](https://www.linkedin.com/school/betrybe/) programming school:  
+#### The basics of development:
+ - ✔️ Unix and Bash
+ - ✔️ Git and Github
+ - ✔️ Html
+ - ✔️ CSS 
+ - ✔️ Javascript
+ - ✔️ Api consumption
+ #### Frontend 
+ - ✔️ React componenets
+ - ✔️ React events and forms
+ - ✔️ React Router
+ - ✔️ React Componenets lifecycle 
+ - ✔️ Agile methoods
+ - ✔️ React testing library 
+ - ✔️ React redux
+ - ✔️ Context api
+ - ✔️ React Hooks 
+ #### Backend
+ - ✔️ Docker
+ - ✔️ SQL
+ - ⌛ Node.js (Architecture: Rest and Restful, ORM and Authentication)
+ - ⌛ Deployment
+ - ⌛ Typescript
+ - ⌛ POO and Solid 
+ - ⌛ MongoDB
+ - ⌛ VPS CI/CD
+  #### Computer Science
+ - ⌛ Python
+ - ⌛ Web Scraping 
+ - ⌛ Data structuring 
+ <br>
+ <br>
+ 
+ ### 📱 Contact and social media: 
+ <a href="https://www.linkedin.com/in/matheus-de-araújo-alves-66614b81/" target="_blank"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/30/external-linkedin-social-media-justicon-lineal-color-justicon.png"/></a>
+ <a href="mailto:matheus.aalves@hotmail.com" target="_blank"><img src="https://img.icons8.com/external-nawicon-outline-color-nawicon/30/external-email-communication-nawicon-outline-color-nawicon-2.png"/></a>
 
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathalves23&theme=dark&hide_langs_below=1" />
-</a>
 
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=mathalves23&show_icons=true&theme=dark&line_height=27" alt="Matheus Alves github stats"/>
-</a>
-
-
-## **Tools & Programming Languages:**  
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+### 🏗️ Languages, frameworks and tools: 
+<img align="left" alt="Visual Studio Code" src="https://img.icons8.com/nolan/30/visual-studio-code-2019.png"/>
+<img align="left" alt="Javascript" src="https://img.icons8.com/color/30/javascript--v1.png"/>
+<img align="left" alt="HTML5" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/30/external-html-mobile-app-development-flaticons-lineal-color-flat-icons.png"/>
+<img align="left" alt="CSS3" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/30/external-css-mobile-app-development-flaticons-lineal-color-flat-icons.png"/>
+<img align="left" alt="React" src="https://img.icons8.com/plasticine/30/react.png"/>
+<img align="left" alt="API" src="https://img.icons8.com/stickers/30/api-settings.png"/>
+<img align="left" alt="Docker" src="https://img.icons8.com/color/30/docker.png"/>
+<img align="left" alt="SQL" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/30/external-sql-computer-programming-flaticons-lineal-color-flat-icons.png"/>
+<img align="left" alt="Git" src="https://img.icons8.com/color/30/git.png"/>
+<img align="left" alt="GitHub" src="https://img.icons8.com/color/30/github--v1.png"/>
+<img align="left" alt="Terminal" src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/external-terminal-computer-programming-flaticons-flat-flat-icons.png"/>
 
 
+<br>
+<br>
+<br>
+
+ <!-- I got most of the icons from <a href="https://icons8.com"></a> -->
