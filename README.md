@@ -1,7 +1,7 @@
 #  Hello there!
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathalves23&theme=gotham)](https://github.com/mathalves23/github-readme-stats)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathalves23&theme=gotham&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathalves23&theme=gotham&show_icons=true)
 
 
 ### Skills I developed at [Trybe](https://www.linkedin.com/school/betrybe/) programming school:  
