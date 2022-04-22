@@ -32,7 +32,7 @@
  - ⌛ MongoDB
  - ⌛ VPS CI/CD
   #### Computer Science
- - ⌛ Python
+ - ✔️ Python
  - ⌛ Web Scraping 
  - ⌛ Data structuring 
  <br>
