@@ -1,7 +1,7 @@
 #  Hello, World!
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathalves23&theme=gotham&show_icons=true)
+(https://github-readme-stats.vercel.app/api?username=mathalves23&theme=gotham&show_icons=true)
 
 
 ### Skills I developed at [Trybe](https://www.linkedin.com/school/betrybe/) programming school:  
