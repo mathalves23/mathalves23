@@ -46,6 +46,7 @@
 ### 🏗️ Languages, frameworks and tools: 
 <img align="left" alt="Visual Studio Code" src="https://img.icons8.com/plasticine/30/visual-studio-code-2019.png"/>
 <img align="left" alt="Javascript" src="https://img.icons8.com/color/30/javascript--v1.png"/>
+<img align="left" alt="Python" src="https://img.icons8.com/stickers/30/python.png"/>
 <img align="left" alt="HTML5" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/30/external-html-mobile-app-development-flaticons-lineal-color-flat-icons.png"/>
 <img align="left" alt="CSS3" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/30/external-css-mobile-app-development-flaticons-lineal-color-flat-icons.png"/>
 <img align="left" alt="React" src="https://img.icons8.com/plasticine/30/react.png"/>
