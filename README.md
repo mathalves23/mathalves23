@@ -12,7 +12,7 @@
  - ✔️ CSS 
  - ✔️ Javascript
  - ✔️ Api consumption
- #### Frontend 
+ #### Front-end 
  - ✔️ React componenets
  - ✔️ React events and forms
  - ✔️ React Router
@@ -22,7 +22,7 @@
  - ✔️ React redux
  - ✔️ Context api
  - ✔️ React Hooks 
- #### Backend
+ #### Back-end
  - ✔️ Docker
  - ✔️ SQL
  - ⌛ Node.js (Architecture: Rest and Restful, ORM and Authentication)
